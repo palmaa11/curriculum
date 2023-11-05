@@ -26,4 +26,9 @@ li{
     font-size: 25px;
 }
 
-
+.foto {
+    float: right; 
+    margin-left: 10px; 
+    width: 200px; 
+    height: auto; 
+}
