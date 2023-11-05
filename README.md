@@ -1,0 +1,10 @@
+	Project information
+
+I am Aleix Palmada, computer engineering student at the University of Girona, I am currently in my second year and in this project we have been asked to make a curriculum vitae. My curriculum consists of the following:
+
+In my figma and html project I have put the data that I think are most important to be in a curriculum. This is made up of extensive information about my personal data, such as my ID, telephone or date of birth, among others. Below I have highlighted some of my personal skills and interests that I have when I am doing job. I also think that a resume there must be information about your formation and knowledge acquired before starting work, so I have given some details of my formation. Since technology and having digital skills is becoming more and more important, I have put some of the programs that I know and can use to get the job done well, followed by languages, which are necessary for any job. Finally, my work experience, that is, places where I have worked previously, which can give security and credibility about my professional responsibility.
+
+About the design of the project, I have opted for a serious and simple design. With this I want to be able to highlight what is written in the text, which is the important thing and not highlight so much because of the visual. Even so, we can see the title in white inside a gray box that highlights the letters. I have chosen to put the titles of each section in brown, underlined by a blue line to give importance to each section. Inside each section we can see that it is distributed by a series of points, which form a kind of list to list all the things that are in each section. In addition, the text before the two points is highlighted in bold. This is so you can clearly see the difference between the text before the two points and the text after it. To all this is added a frontal photo of me on the right side of the page and my email linked in the personal data section.
+
+https://www.figma.com/file/yoXomQ4xHXslnMOxZoDIPR/Untitled?type=design&node-id=0%3A1&mode=design&t=BJaB4e6v0X16L7vf-1
+
